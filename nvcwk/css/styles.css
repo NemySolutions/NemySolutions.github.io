@@ -652,51 +652,100 @@ nav ul li a.active {
 .av1 {
     height: 88px;
     width: 88px;
-    background: url(../img/teamsprite.png) no-repeat;
+    background: url(../img/av01.png) no-repeat;
     background-position:  0px 0px;
+    border-radius: 50%;
+    border: 5px solid white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     margin: -55px auto;
     position: relative;
 }
 .ca-hover:hover .av1 {
-    background: url(../img/teamsprite.png) no-repeat;
-    background-position:  0px -88px;
-
+    background: url(../img/av01.png) no-repeat;
+    background-position:  0px 0px;
+    border-radius: 50%;
+    border: 5px solid #63c6ae;;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: -55px auto;
+    position: relative;
 }
+
 .av2 {
     height: 88px;
     width: 88px;
-    background: url(../img/teamsprite.png) no-repeat;
+    background: url(../img/av02.jpg) no-repeat;
     background-position:  -88px 0px;
+    border-radius: 50%;
+    border: 5px solid white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     margin: -55px auto;
     position: relative;
 }
 .ca-hover:hover .av2 {
-    background: url(../img/teamsprite.png) no-repeat;
+    background: url(../img/av02.jpg) no-repeat;
     background-position:  -88px -88px;
+    border-radius: 50%;
+    border: 5px solid #63c6ae;;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: -55px auto;
+    position: relative;
 }
 .av3 {
     height: 88px;
     width: 88px;
-    background: url(../img/teamsprite.png) no-repeat;
+    background: url(../img/av03.jpg) no-repeat;
     background-position:  -176px 0px;
+    border-radius: 50%;
+    border: 5px solid white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     margin: -55px auto;
     position: relative;
 }
 .ca-hover:hover .av3 {
-    background: url(../img/teamsprite.png) no-repeat;
+    background: url(../img/av03.jpg) no-repeat;
     background-position:  -176px -88px;
+    border-radius: 50%;
+    border: 5px solid #63c6ae;;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: -55px auto;
+    position: relative;
 }
 .av4 {
     height: 88px;
     width: 88px;
-    background: url(../img/teamsprite.png) no-repeat;
+    background: url(../img/av04.png) no-repeat;
     background-position:  -264px 0px;
+    border-radius: 50%;
+    border: 5px solid white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     margin: -55px auto;
     position: relative;
+
 }
 .ca-hover:hover .av4 {
-    background: url(../img/teamsprite.png) no-repeat;
+    background: url(../img/av04.png) no-repeat;
     background-position:  -264px -88px;
+    border-radius: 50%;
+    border: 5px solid #63c6ae;;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: -55px auto;
+    position: relative;
 }
 .carousel-content {
     text-align: left;
